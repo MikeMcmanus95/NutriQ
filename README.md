@@ -2,7 +2,7 @@
 <p align="center">
 An iOS application that allows users to create a custom meal plan with recipes based on their fitness goals.</p>
 <p align="center">
-  <img src="https://media.giphy.com/media/Q7uN9GAlexiV0RqFFa/giphy.gif" width="300" alt="nutriq"/>
+  <img src="https://media.giphy.com/media/Y2hA1XITggC54e7lZx/giphy.gif" width="300" alt="nutriq"/>
 </p>
 
 NutriQ an app that was built by myself and my friend Albert Gertskis as our final project submission
