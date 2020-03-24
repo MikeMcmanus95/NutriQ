@@ -17,9 +17,10 @@ goals into account, as some people may want to lose, gain or maintain their weig
 <p align="center">
   <img src="https://i.imgur.com/GhjO4pA.png" width="300" alt="nutriq1"/>
   <img src="https://i.imgur.com/1wRLPSs.png" width="300" alt="nutriq2"/>
-  <img src="https://i.imgur.com/lVBZO5x.png" width="300" alt="nutriq3"/>
+  
 </p>
 <p align="center">
- <img src="https://i.imgur.com/EzhvvLW.png" width="300" alt="nutriq3"/>
- <img src="https://i.imgur.com/LMXkEc7.png" width="300" alt="nutriq4"/>
+  <img src="https://i.imgur.com/lVBZO5x.png" width="250" alt="nutriq3"/>
+ <img src="https://i.imgur.com/EzhvvLW.png" width="250" alt="nutriq3"/>
+ <img src="https://i.imgur.com/LMXkEc7.png" width="250" alt="nutriq4"/>
 </p>
